@@ -4,4 +4,4 @@ Añade al final de la lista de abajo el nombre de tu rama y el usuario
 | ---- | ------- |
 | main | gperezivo |
 | feature/gperezivo | gperezivo |
-
+| feature/rodrigob_berretta | Rodrigo
